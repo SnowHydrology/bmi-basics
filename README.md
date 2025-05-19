@@ -4,7 +4,7 @@
 
 Welcome! This repo includes materials for a workshop called *BMI Basics* at the 2025 [CIROH Training and Developers Conference](https://ciroh.ua.edu/devconference/). 
 
-![image](`examples/images/CIROH_DevCon_2025_banner.png`)
+![image](examples/images/CIROH_DevCon_2025_banner.png)
 
 The Basic Model Interface (BMI) features a set of model interoperability and coupling functions that standardize model control across a variety of programming languages. We use BMI in the Next Generation Water Resources Modeling Framework (NextGen) to run and couple independently developed hydrologic models. In this workshop, we will gain the knowledge we need to implement BMI for enhanced model interoperability in NextGen.
 
