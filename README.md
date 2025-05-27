@@ -41,6 +41,8 @@ In addition, you'll need:
 
 As noted above, you need Python (plus the noted packages) and Jupyter distributions to run the examples. Once you have those, you'll need to install the BMI Python bindings using the CSDMS instructions linked above. Next, build the `snowBMI` model according to its instructions. You're ready to go now!
 
+You can also install the BMI Python bindings and the snowBMI module directly from the Jupyter notebook using the code provided.
+
 ## Acknowledgments
 
 The Community Surface Dynamics Modeling System ([CSDMS](https://csdms.colorado.edu/)) group at CU Boulder created, develops, and maintains [BMI](https://csdms.colorado.edu/wiki/BMI). Some of the example code is based on their work and documentation.
